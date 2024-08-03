@@ -9,7 +9,7 @@ Pasos
     del repo.
 3.- Un vez en la carpeta del repo test_python_hack_2 cree el ambiente virtual.
     python  -m venv .venv
-4.- Active el ambiente virtual:
+4.- Active el ambiente virtual, desde comand prompt:
     .venv\Scripts\activate
 5.- Ver que paquetes estan:
     pip list
