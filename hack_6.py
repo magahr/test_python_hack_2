@@ -11,5 +11,11 @@ text: [] output => ["0"]
 
 def fn_hack_6(s):
     result = s
-    #...
+    
+
+
+
+
+
+    
     return result
