@@ -17,6 +17,6 @@ Pasos
     pip install -r requirements.txt
 7.- Ver si los paquetes nuevos se instalaron:
     pip list
-8.- 
+8.- pytest test_hack.py::test_hack_1
     
     
